@@ -4,7 +4,7 @@ CONTRIBUTORS: Dennis Phori Lizzy Fouche
 
 Group Projects Pair Programming - How To Flowcharts Technical Writing Background Context Write your own printf function.
 
-^ In this picture, Kris, and Jul
+In this picture, Kris, and Jul
 
 Resources Read or watch:
 
