@@ -8,9 +8,8 @@
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
- * @precision: Precision specification
+ * @precision: Precision specification.
  * @size: Size specifier
- * created by Lizzy Fouche and Dennis Phori 
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],
@@ -145,7 +144,7 @@ int print_int(va_list types, char buffer[],
 /************************* PRINT BINARY *************************/
 /**
  * print_binary - Prints an unsigned number
- * @types: Lista of arguments
+ * @types: Lista of arguments.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width.
@@ -187,4 +186,3 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-
